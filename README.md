@@ -6,6 +6,6 @@
 ● solve sudoku
 ![solve](https://github.com/Ayush-ken14/sudoku/assets/82118453/2ffac43a-db8a-4052-a472-b488089979e1)
 
-Logic:Backtracking Algorithm
+Logic: Backtracking Algorithm
 
-TechStack used:Html,Css,JavaScript.
+TechStack used: Html,Css,JavaScript.
